@@ -4,7 +4,7 @@ A statistics bot for tanki online made with discord.js
 <img src="https://github.com/WBRK-dev/tankionline-stats-discord-bot/blob/789c0fe040d8b7b0f23f3d14fada9e74aadcf513/screenshots/Screenshot_20231109_152010.png" style=""></img>
 ## How to install
 ```
-git clone
+git clone https://github.com/WBRK-dev/tankionline-stats-discord-bot.git
 ```
 Use git clone to clone the repository to a directory.
 ```
